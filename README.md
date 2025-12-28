@@ -105,9 +105,6 @@ This preserves the sign of the partial result.
 - Concatenate `{A, Q}` to form the final product
 - Assert `done` signal
 
----
 
-## 🧪 Example
 
-For `N = 8`:
 
