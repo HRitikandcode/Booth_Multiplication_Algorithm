@@ -106,5 +106,9 @@ This preserves the sign of the partial result.
 - Assert `done` signal
 
 
+<img width="1240" height="421" alt="Screenshot 2025-12-28 171444" src="https://github.com/user-attachments/assets/6d2dbb62-f19f-44be-9451-1750300b12e1" />
+
+
+
 
 
